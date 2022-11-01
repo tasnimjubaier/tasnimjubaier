@@ -7,8 +7,9 @@ I have
 - Frim experience in developing industry level web apps and desktop software.
 
 My technology stacks include
--- Front end: ReactJS, Redux, Sass, C# .NET
--- UI Framework: MUI, Bootstrap, Xaml.
--- Backend: Express
--- Database: MySQL, Firebase, MongoDB
--- Git, Docker, Postman
+
+- Front end: ReactJS, Redux, Sass, C# .NET
+- UI Framework: MUI, Bootstrap, Xaml.
+- Backend: Express
+- Database: MySQL, Firebase, MongoDB
+- Git, Docker, Postman
